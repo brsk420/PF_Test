@@ -188,13 +188,20 @@ PrefabInstance:
       value: desert_big_stone_05 (21)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 749158350}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1432121 stripped
 Transform:
@@ -391,13 +398,20 @@ PrefabInstance:
       value: desert_big_stone_05 (24)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 937257440}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &158183167 stripped
 Transform:
@@ -467,6 +481,26 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &162653011 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1707743911}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &172076580 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1589851534}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &278814394 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1783104031}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &298575614 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1389610117}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &347354579
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -532,13 +566,20 @@ PrefabInstance:
       value: desert_big_stone_05 (26)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1497184629}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &347354580 stripped
 Transform:
@@ -727,13 +768,20 @@ PrefabInstance:
       value: desert_big_stone_05 (22)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1704124278}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &380681772 stripped
 Transform:
@@ -822,6 +870,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5186d0765e8789045a8de1951070c7df, type: 3}
   m_PrefabInstance: {fileID: 474963363}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &520979305 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1881793961}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &527847552
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -887,13 +940,20 @@ PrefabInstance:
       value: desert_big_stone_05 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1595413045}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &527847553 stripped
 Transform:
@@ -1031,13 +1091,20 @@ PrefabInstance:
       value: desert_big_stone_05 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1111595937}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &547208874 stripped
 Transform:
@@ -1109,13 +1176,20 @@ PrefabInstance:
       value: desert_big_stone_05 (23)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1439996437}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &589241655 stripped
 Transform:
@@ -1450,18 +1524,57 @@ PrefabInstance:
       value: desert_big_stone_05 (11)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1225781941}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &709882815 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 709882814}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &749158347 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1432120}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &749158350
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 749158347}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &776475081 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1214917915}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &815003757
 GameObject:
@@ -1593,18 +1706,30 @@ PrefabInstance:
       value: desert_big_stone_05 (15)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1058871992}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &818792356 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 818792355}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &831998617 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1883739653}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &862107929
 GameObject:
@@ -1736,6 +1861,33 @@ ReflectionProbe:
   m_UseOcclusionCulling: 1
   m_Importance: 1
   m_CustomBakedTexture: {fileID: 0}
+--- !u!1 &937257437 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 158183166}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &937257440
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 937257437}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1 &961266310
 GameObject:
   m_ObjectHideFlags: 0
@@ -1903,18 +2055,30 @@ PrefabInstance:
       value: desert_big_stone_05 (17)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1066092756}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &976057282 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 976057281}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1008025412 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1171718143}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1028939795
 PrefabInstance:
@@ -1981,19 +2145,58 @@ PrefabInstance:
       value: desert_big_stone_05
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1191035690}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1028939796 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1028939795}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1045852448 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1936409436}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1058871989 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 818792355}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1058871992
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1058871989}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1060679638
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2059,19 +2262,80 @@ PrefabInstance:
       value: desert_big_stone_05 (12)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1326661002}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1060679639 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1060679638}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1066092753 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 976057281}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1066092756
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066092753}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1111595934 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 547208873}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1111595937
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1111595934}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1171718143
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2137,19 +2401,48 @@ PrefabInstance:
       value: desert_big_stone_05 (25)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1171718147}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1171718144 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1171718143}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1171718147
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1008025412}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1 &1176300525
 GameObject:
   m_ObjectHideFlags: 0
@@ -2218,6 +2511,38 @@ Transform:
   - {fileID: 1936409437}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1191035687 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1028939795}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1191035690
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191035687}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1200873964 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1465247284}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1214917915
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2283,19 +2608,75 @@ PrefabInstance:
       value: desert_big_stone_05 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1214917919}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1214917916 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1214917915}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1214917919
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 776475081}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1225781938 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 709882814}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1225781941
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1225781938}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1303054646
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2361,19 +2742,53 @@ PrefabInstance:
       value: desert_big_stone_05 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1916703902}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1303054647 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1303054646}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1326660999 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1060679638}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1326661002
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1326660999}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1361667997
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2439,13 +2854,20 @@ PrefabInstance:
       value: desert_big_stone_05 (14)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1857679934}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1361667998 stripped
 Transform:
@@ -2517,19 +2939,75 @@ PrefabInstance:
       value: desert_big_stone_05 (10)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1389610121}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1389610118 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1389610117}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1389610121
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 298575614}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1439996434 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 589241654}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1439996437
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1439996434}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1452924749
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2677,19 +3155,75 @@ PrefabInstance:
       value: desert_big_stone_05 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1465247288}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1465247285 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1465247284}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1465247288
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200873964}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1497184626 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 347354579}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1497184629
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1497184626}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1538822561
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2755,13 +3289,20 @@ PrefabInstance:
       value: desert_big_stone_05 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1574057034}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1538822562 stripped
 Transform:
@@ -2862,6 +3403,33 @@ Transform:
   m_Children: []
   m_Father: {fileID: 7021206}
   m_LocalEulerAnglesHint: {x: 130, y: 45, z: 0}
+--- !u!1 &1574057031 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1538822561}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1574057034
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1574057031}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1589851534
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2927,19 +3495,75 @@ PrefabInstance:
       value: desert_big_stone_05 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1589851538}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1589851535 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1589851534}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1589851538
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 172076580}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1595413042 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 527847552}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1595413045
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1595413042}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1598236558
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3071,13 +3695,20 @@ PrefabInstance:
       value: desert_big_stone_05 (18)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1754546119}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1677938750 stripped
 Transform:
@@ -3149,19 +3780,53 @@ PrefabInstance:
       value: desert_big_stone_05 (13)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1885873053}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1693159942 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1693159941}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1704124275 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 380681771}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1704124278
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1704124275}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1707743911
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3227,19 +3892,75 @@ PrefabInstance:
       value: desert_big_stone_05 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1707743915}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1707743912 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1707743911}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1707743915
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 162653011}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1754546116 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1677938749}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1754546119
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754546116}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1 &1773473860
 GameObject:
   m_ObjectHideFlags: 0
@@ -3370,19 +4091,48 @@ PrefabInstance:
       value: desert_big_stone_05 (27)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1783104035}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1783104032 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1783104031}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1783104035
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 278814394}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1836718505
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3543,6 +4293,33 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5186d0765e8789045a8de1951070c7df, type: 3}
   m_PrefabInstance: {fileID: 1848007507}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1857679931 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1361667997}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1857679934
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857679931}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1881793961
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3608,19 +4385,48 @@ PrefabInstance:
       value: desert_big_stone_05 (20)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1881793965}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1881793962 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1881793961}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1881793965
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520979305}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1883739653
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3686,19 +4492,107 @@ PrefabInstance:
       value: desert_big_stone_05 (16)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1883739657}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1883739654 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1883739653}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1883739657
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831998617}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1885873050 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1693159941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1885873053
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1885873050}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+--- !u!1 &1907357630 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 2096548563}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1916703899 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+  m_PrefabInstance: {fileID: 1303054646}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1916703902
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1916703899}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &1936409436
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3764,19 +4658,48 @@ PrefabInstance:
       value: desert_big_stone_05 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1936409440}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &1936409437 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 1936409436}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1936409440
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045852448}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1 &1968712857
 GameObject:
   m_ObjectHideFlags: 0
@@ -3981,19 +4904,48 @@ PrefabInstance:
       value: desert_big_stone_05 (19)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      propertyPath: m_TagString
+      value: Terrain
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2096548567}
   m_SourcePrefab: {fileID: 100100000, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!4 &2096548564 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
   m_PrefabInstance: {fileID: 2096548563}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &2096548567
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907357630}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 901632755178654695, guid: 63c21b04a667f7541bc91e876288ed2f, type: 3}
 --- !u!1001 &2142126634
 PrefabInstance:
   m_ObjectHideFlags: 0

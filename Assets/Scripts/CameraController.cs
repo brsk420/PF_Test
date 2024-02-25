@@ -3,16 +3,16 @@ using UnityEngine;
 public class CameraMovement : MonoBehaviour
 {
    
-    public float movementSpeed = 5f;
-    public float zoomSpeed = 5f;
-    public float rotationSpeed = 5f;
-    public float minDistanceFromGround = 2f;
-    public float maxDistanceFromGround = 20f;
+    [SerializeField] private float movementSpeed = 5f;
+    [SerializeField] private float zoomSpeed = 5f;
+    [SerializeField] private float rotationSpeed = 5f;
+    [SerializeField] private float minDistanceFromGround = 2f;
+    [SerializeField] private float maxDistanceFromGround = 20f;
 
     [Header("Camera Distance")]
     [SerializeField] private bool infinity = false;
-    public float minDistanceFromPlayer = 0f;
-    public float maxDistanceFromPlayer = 20f;
+    [SerializeField] private float minDistanceFromPlayer = 0f;
+    [SerializeField] private float maxDistanceFromPlayer = 20f;
     
     
     private Transform player;

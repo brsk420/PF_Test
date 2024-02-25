@@ -2,9 +2,7 @@ using UnityEngine;
 using UnityEngine.AI;
 
 public class PlayerMovement : MonoBehaviour
-{
-    public float moveSpeed = 5f; // Скорость перемещения игрока
-    
+{ 
     private Camera mainCamera;
     private NavMeshAgent agent;
     private Animator animator;
@@ -19,26 +17,22 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0)) // Проверяем, был ли произведен клик левой кнопкой мыши
+        if (Input.GetMouseButtonDown(0)) 
         {
-            Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition); // Создаем луч от камеры к позиции мыши
-            RaycastHit hit; // Переменная для хранения информации о пересечении луча с объектом
+            Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition); 
+            RaycastHit hit; 
 
-            if (Physics.Raycast(ray, out hit)) // Проверяем, пересек ли луч объект
+            if (Physics.Raycast(ray, out hit))
             {
-                // Если луч пересек террейн, перемещаем игрока к точке пересечения
                 if (hit.collider.CompareTag("Terrain")) {
                     agent.SetDestination(hit.point);
-
                 }
             }
         }
-
         if (agent.remainingDistance > 0.1f) {
             animator.SetBool("IsRun", true);
         } else animator.SetBool("IsRun", false);
-      
-       
+        
     }
 
    
