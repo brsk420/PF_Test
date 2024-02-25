@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CameraMovement : MonoBehaviour
 {
-   
+    [SerializeField] private Transform player;
     [SerializeField] private float movementSpeed = 5f;
     [SerializeField] private float zoomSpeed = 5f;
     [SerializeField] private float rotationSpeed = 5f;
@@ -15,14 +15,17 @@ public class CameraMovement : MonoBehaviour
     [SerializeField] private float maxDistanceFromPlayer = 20f;
     
     
-    private Transform player;
+    
     private float distanceFromGround;
     private Vector3 movementDirection;
     private RaycastHit groundHit;
 
     void Start() {
-        player = GameObject.FindWithTag("Player").transform;
         
+        
+        if (player == null) {
+            player = GameObject.FindWithTag("Player").transform;
+        }
         if (Physics.Raycast(transform.position, Vector3.down, out groundHit))
         {
             distanceFromGround = Mathf.Clamp(groundHit.distance, minDistanceFromGround, maxDistanceFromGround);
@@ -61,6 +64,7 @@ public class CameraMovement : MonoBehaviour
     void HandleCameraZoom() {
         float scrollInput = Input.GetAxis("Mouse ScrollWheel");
         
+        //проверяем возможность зума
         if (distanceFromGround == maxDistanceFromGround && scrollInput < 0f) return;
         if (distanceFromGround == minDistanceFromGround && scrollInput > 0f) return;
         
