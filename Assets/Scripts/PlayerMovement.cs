@@ -15,13 +15,13 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponentInChildren<Animator>();
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (Input.GetMouseButtonDown(0)) 
         {
             Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition); 
-            RaycastHit hit; 
-
+            RaycastHit hit;
+            
             if (Physics.Raycast(ray, out hit))
             {
                 if (hit.collider.CompareTag("Terrain")) {
@@ -32,10 +32,6 @@ public class PlayerMovement : MonoBehaviour
         if (agent.remainingDistance > 0.1f) {
             animator.SetBool("IsRun", true);
         } else animator.SetBool("IsRun", false);
-        
     }
-
-   
-   
 }
 
